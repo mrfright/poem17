@@ -11,10 +11,6 @@ The bootloader in this repository is just a modified "hello world" -- it prints 
 
 Notes:
 
-- Bootloader written with hexer
-
-- Boot image created via mkisofs [El-Torito](http://wiki.osdev.org/El-Torito)
-
 - If you'd like to create your own bootloader check out: [Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by Nick Blundell
 
 Usage:
