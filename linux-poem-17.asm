@@ -28,7 +28,7 @@ poem:
   db 0xA, 0xD, \
   '/*****************************', \
   0xA, 0xD, \
-  '** The Magic Number: 0xAAFF', \
+  '** The Magic Number: 0xAA55', \
   0xA, 0xD, \
   '******************************/', \
   0xA, 0xD, \
