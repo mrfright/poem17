@@ -19,4 +19,4 @@ Usage:
 
 Development:
   
-  Edit linux-poem-16-bootloader and run ``make``  then ``make iso`` to regenerate linux-poem-16.iso
+  Edit linux-poem-16.asm and run ``make``  then ``make iso`` to regenerate linux-poem-16.iso
