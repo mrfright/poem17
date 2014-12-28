@@ -1,7 +1,7 @@
 Linux Poem No.17
 ======================
 
-Read the latest Linux poem on bare metal! That's right, no OS required. :)
+Read the latest Linux poem on bare metal! That's right, no OS required. :) http://linux-poetry.com/17/
 
 The poem is a [triolet](https://en.wikipedia.org/wiki/Triolet) about the "magic number" `0xAA55`: the byte signature used to denote a bootable sector on x86 systems. The signature prompts BIOS to execute the preceding bytes in the sector as a program. This is the way that bootloaders, like GRUB, are launched.
 
