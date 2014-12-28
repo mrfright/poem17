@@ -45,7 +45,7 @@ poem:
   'A word gives life, to bare metal', \
   0xA, 0xD, \
   0xA, 0xD, \
-  'The bootloaders role is vital', \
+  'The bootloader', 0x27, 's role is vital', \
   0xA, 0xD, \
   0xA, 0xD, \
   'Denoted by its locution--', \
