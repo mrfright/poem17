@@ -3,7 +3,7 @@ Linux Poem No.17
 
 Read the latest Linux poem on bare metal! That's right, no OS required. :)
 
-The poem is a [Triolet](https://en.wikipedia.org/wiki/Triolet) about the `magic number` 0xAA55: the byte signature used to denote a bootable sector on x86 systems. The signature prompts BIOS to execute the preceding bytes in the sector as a program. This is the way that bootloaders, like GRUB, are launched.
+The poem is a [triolet](https://en.wikipedia.org/wiki/Triolet) about the `magic number` 0xAA55: the byte signature used to denote a bootable sector on x86 systems. The signature prompts BIOS to execute the preceding bytes in the sector as a program. This is the way that bootloaders, like GRUB, are launched.
 
 The bootloader in this repository is just a modified "hello world" -- it prints the text of the poem. An iso is included so you can boot a bare metal system from it if you're brave! I'd recommend just using qemu or virtualbox otherwise.
 
