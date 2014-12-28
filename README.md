@@ -1,4 +1,4 @@
-Linux Poem No.16
+Linux Poem No.17
 ======================
 
 Read the latest Linux poem on bare metal! That's right, no OS required. :)
@@ -7,7 +7,7 @@ The poem is a [Triolet](https://en.wikipedia.org/wiki/Triolet) about the `magic 
 
 The bootloader in this repository is just a modified "hello world" -- it prints the text of the poem. An iso is included so you can boot a bare metal system from it if you're brave! I'd recommend just using qemu or virtualbox otherwise.
 
-<img src="poem16.png"></img>
+<img src="poem17.png"></img>
 
 Notes:
 
@@ -19,4 +19,4 @@ Usage:
 
 Development:
   
-  Edit linux-poem-16.asm and run ``make``  then ``make iso`` to regenerate linux-poem-16.iso
+  Edit linux-poem-17.asm and run ``make``  then ``make iso`` to regenerate linux-poem-17.iso
